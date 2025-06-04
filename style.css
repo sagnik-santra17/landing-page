@@ -7,7 +7,7 @@
 
 .hero {
   background-color: #1f2937;
-  padding: 10px 180px;
+  /* padding: 10px 180px; */
   height: 80vh;
   display: flex;
   flex-direction: column;
@@ -16,6 +16,8 @@
 .container {
   max-width: 1100px;
   margin: 0 auto;
+  padding: 0 20px;
+  width: 100%;
 }
 
 header {
